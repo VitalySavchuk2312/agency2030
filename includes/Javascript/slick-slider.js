@@ -1,4 +1,4 @@
-$(document).ready(() => {
+$(document).ready(function() {
   $('.image-container').slick({
    slidesToShow: 1,
    slidesToScroll: 1,
